@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "citric-tiger-450510-u1",
+  "private_key_id": "74a8942a946bdcdc1b51d4872bc18bb317c2a919",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrAzomif4Ojrvt\nJS8ryX/aO1x8t0rYbDevZTX9Mt43QItC9QvNBmLBRB9IsRk5Nd3r6pRA8DZ+edHj\nvAs+d8CjJ6Th8D0BwDmXahm1VwtEFvoPcxnYMAp9O6xJdT3KGuJ0hS9WC1f6HJNG\nDhJmMakLHKLRS+C0q/NlPoI/tIVhx+SgW6E6gM7eLwOrTy48e1sgtOQXUC3QYO8Z\n7kVpbKePjQQ28++/YjTtlwRxTeWOwIKlMezHFeYFZm5B3AzPbPAvgql2N0EHn9SB\nUIYU6HjJ2i35Qxd31qtXUKYq785AgDBm75F6U3MeTAPFQVP5oVUJ4W3y+k/dsRJK\n4syeu3OpAgMBAAECggEAAiEvehBjCsgvn2JEkeNAi2Qj8genOKNgufdk7K3fQzIQ\nnkTjlQz/oBux7mchdzyyFUwpgL+FyR2DtHvpO8De1vIH2apy51DQjJtkatbthfFp\nq+DyNAmxHksg/c8x6hws9mg8MM9wiRRUHEaLlgVkwJFaxSrtmMJj+IRMiTYahdmA\n1XOt3cVIjjU0j3XYIj+4TQOq7bnb3UfWEHeNkAOio1c5aK3RZzhbOyKZRFCAohih\nmUPXVeixYfSPUtam5DDoyLHR2tgaRSZ3srVN85Jl/eWA/7H45azFgGKPy65SmmrT\n9POlrq/IBOIhC8GxyrAab/2/m/iJKxCfLL4Q5ftICQKBgQDxMYbSHZRgPcp0e3SH\n8FeKBI6r6mBhxq+rsA3BrO0tIVzAa00Sm8X0mgOKltFM/XVyJyzbK1UGdBaaTFqo\npQYT53BDl1wsmsJ9nB4up/GKLxUi7/YwjLEMW8dsBdxnNcmz/UI/7zywKy7uqK6Z\nENobJhXj4XkuFZ5lj5RHOm7KnQKBgQC1gsYjQAlYN0X2nlqc6j+eSvBxQS2iMKc+\n9KBUpmhRiDlMHBSfpbBia3CsvQ89g633lnoF5UIO1CgPkxOpc3qWQc8DlRlSgp5s\nnKbdHh92IgVr9LT0mkty57nur/ejjFpKlFF0rx2cr9sE+qKkFz/AVyPSL+nphFQS\nWOiwop8JfQKBgQC8qzI8MDk9o3g3785y+9VuOCxmXFtygJowIfJQ2vVYhS1ps0XB\n1apesQ8uHNWydN2nIu/araW/+5Ums62DGDuN3E+b/81xcsnKuhF+C49MuZG+F5kr\n1xIziaOQY3FKJvAV5HkrS/fcEpuOwtJ5F46VCBC9hkVlgDG8XjjuEs5RnQKBgFX2\nb1w2cbaDxvC7onJ6RlLzbthUZAZSQIMCXAR7IyCqAWjYS7QoRlb2R1Cn4VXizTta\n2sN8BkL7m1V09HTmKgKLfD1YGbwH/Hu33RcPsxrBlgvAwwqtIFp1AIvYbtHYINL9\nV26JmN6iMnozMV/BWwH+wwpCgueDMkXWMa2l9ugJAoGAb3sRCHwBBwf2fZlj2RNM\nvqWuBXist4xfpwQwt+MzcZQ7Yro2lb3WJ4MP8ICiYIsjbtWJjkiP6PQH5s0u90JU\nHAlegbAGSv/0YtbIEwrMcmIBR7Uk7LIHzJIyB5cPL07C8uKZZPq1V8s/Luhq0DrF\nq3mGGr7DKu9S9yomqX9GQjI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-calendar@citric-tiger-450510-u1.iam.gserviceaccount.com",
+  "client_id": "116934841619156003634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-calendar%40citric-tiger-450510-u1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
